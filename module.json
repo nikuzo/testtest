@@ -120,7 +120,7 @@
   ],
   "url": "https://github.com/trioderegion/sgeh-monkeydm",
   "socket": false,
-  "manifest": "https://foundryvtt.s3.us-west-2.amazonaws.com/modules/sgeh-monkeydm/module.json",
+  "manifest": "https://raw.githubusercontent.com/nikuzo/testtest/main/module.json",
   "flags": {},
   "protected": false
 }
