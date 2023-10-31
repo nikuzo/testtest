@@ -1,0 +1,126 @@
+{
+  "title": "Steinhardt's Guide to the Eldritch Hunt",
+  "id": "sgeh-monkeydm",
+  "esmodules": [
+    "sgeh.mjs"
+  ],
+  "styles": [
+    "static/style.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "static/lang/en.json"
+    }
+  ],
+  "packs": [
+    {
+      "name": "sgeh-tables",
+      "path": "packs/sgeh-tables",
+      "type": "RollTable",
+      "label": "Steinhardt's Tables",
+      "banner": "modules/sgeh-monkeydm/static/assets/cutouts/banners/compendium.webp",
+      "system": "dnd5e"
+    },
+    {
+      "name": "sgeh-stories",
+      "path": "packs/sgeh-stories",
+      "type": "Adventure",
+      "label": "Steinhardt's Stories",
+      "banner": "modules/sgeh-monkeydm/static/assets/cutouts/banners/compendium.webp",
+      "system": "dnd5e"
+    },
+    {
+      "name": "sgeh-notes",
+      "path": "packs/sgeh-notes",
+      "type": "JournalEntry",
+      "label": "Steinhardt's Notes",
+      "banner": "modules/sgeh-monkeydm/static/assets/cutouts/banners/compendium.webp",
+      "system": "dnd5e"
+    },
+    {
+      "name": "sgeh-items",
+      "path": "packs/sgeh-items",
+      "type": "Item",
+      "label": "Steinhardt's Items",
+      "banner": "modules/sgeh-monkeydm/static/assets/cutouts/banners/compendium.webp",
+      "system": "dnd5e"
+    },
+    {
+      "name": "sgeh-foes",
+      "path": "packs/sgeh-foes",
+      "type": "Actor",
+      "label": "Steinhardt's Foes",
+      "banner": "modules/sgeh-monkeydm/static/assets/cutouts/banners/compendium.webp",
+      "system": "dnd5e"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Steinhardt's Guide",
+      "color": "#140b1c",
+      "packs": [
+        "sgeh-tables",
+        "sgeh-stories",
+        "sgeh-notes",
+        "sgeh-items",
+        "sgeh-foes"
+      ]
+    }
+  ],
+  "documentTypes": {
+    "Item": {
+      "trickwep": {
+        "htmlFields": [
+          "description.value",
+          "description.chat",
+          "description.unidentified"
+        ],
+        "filePathFields": {
+          "img": [
+            "IMAGE"
+          ]
+        }
+      }
+    }
+  },
+  "externals": [],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.313"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "compatibility": {
+          "minimum": "2.3.0",
+          "verified": "2.3.1"
+        }
+      }
+    ],
+    "modules": []
+  },
+  "description": "",
+  "version": "1.2.0",
+  "authors": [
+    {
+      "name": "MonkeyDM",
+      "url": "https://www.patreon.com/monkeydm"
+    },
+    {
+      "name": "badgerwerks",
+      "url": "https://github.com/trioderegion"
+    },
+    {
+      "name": "InYourLibrary",
+      "url": "https://github.com/InYourLibrary"
+    }
+  ],
+  "url": "https://github.com/trioderegion/sgeh-monkeydm",
+  "socket": false,
+  "manifest": "https://foundryvtt.s3.us-west-2.amazonaws.com/modules/sgeh-monkeydm/module.json",
+  "flags": {},
+  "protected": false
+}
