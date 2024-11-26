@@ -17,8 +17,7 @@
     "templates": [
         "static/templates/trickwep.hbs",
         "static/templates/lunar-table-config.hbs",
-        "static/templates/beckon-table-config.hbs",
-        "static/templates/activities"
+        "static/templates/beckon-table-config.hbs"
     ],
     "packs": [
         {
@@ -75,27 +74,42 @@
             ]
         }
     ],
-    "documentTypes": {},
+    "documentTypes": {
+        "Item": {
+            "trickwep": {
+                "htmlFields": [
+                    "description.value",
+                    "description.chat",
+                    "description.unidentified"
+                ],
+                "filePathFields": {
+                    "img": [
+                        "IMAGE"
+                    ]
+                }
+            }
+        }
+    },
     "externals": [],
     "compatibility": {
-        "minimum": "12",
-        "verified": "12.331"
+        "minimum": "11",
+        "verified": "12.325"
     },
     "relationships": {
         "systems": [
             {
                 "id": "dnd5e",
                 "compatibility": {
-                    "minimum": "4.1",
-                    "verified": "4.1.1",
-                    "maximum": "5"
+                    "minimum": "3.2.0",
+                    "verified": "3.3.1",
+                    "maximum": "4.0"
                 }
             }
         ],
         "modules": []
     },
     "description": "",
-    "version": "5.0.0",
+    "version": "4.0.1",
     "authors": [
         {
             "name": "MonkeyDM",
@@ -113,17 +127,7 @@
     "url": "https://github.com/trioderegion/sgeh-monkeydm",
     "persistentStorage": false,
     "socket": false,
-    "manifest": "https://r2.foundryvtt.com/packages-public/sgeh-monkeydm/module.json",
-    "changelog": "https://github.com/trioderegion/steinhardts-support-desk/discussions/45",
-    "flags": {
-        "migrations": [
-            "4.1"
-        ],
-        "dnd5e": {
-            "sourceBooks": {
-                "SGEH": "SOURCE.BOOK.SGEH"
-            }
-        }
-    },
+    "manifest": "https://raw.githubusercontent.com/nikuzo/testtest/refs/heads/main/module.json",
+    "flags": {},
     "protected": false
 }
