@@ -127,7 +127,7 @@
     "url": "https://github.com/trioderegion/sgeh-monkeydm",
     "persistentStorage": false,
     "socket": false,
-    "manifest": "https://raw.githubusercontent.com/nikuzo/testtest/refs/heads/main/module.json",
+    "manifest": "https://r2.foundryvtt.com/packages-public/sgeh-monkeydm/module-4.0.1.json",
     "flags": {},
     "protected": false
 }
