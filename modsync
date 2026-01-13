@@ -2,11 +2,35 @@
   "sync_version": 3,
   "sync": [
     {
-      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/EoNKHoLH/sodium-fabric-0.6.5%2Bmc1.21.1.jar",
-      "name": "Sodium",
-      "version": "0.6.5",
+      "url": "https://cdn.modrinth.com/data/GmwLse2I/versions/jVdb0r4W/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+      "name": "mcw-mcwfences",
+      "version": "1.21.1",
       "type": "mod"
-    }
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/C7I0BCni/versions/rQUE4LCz/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+      "name": "mcw-windows",
+      "version": "2.4.2",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/kNxa8z3e/versions/4EOKyL43/mcw-doors-1.1.2-mc1.21.1neoforge.jar",
+      "name": "mcw-doors",
+      "version": "2.4.2",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/iP3wH1ha/versions/4t8L0dGP/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
+      "name": "mcw-mcwstairs",
+      "version": "1.0.2",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/B8jaH3P1/versions/jiXRXiSt/mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
+      "name": "mcw-roofs",
+      "version": "2.3.2",
+      "type": "mod"
+    },
   ]
 
 }
