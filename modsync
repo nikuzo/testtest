@@ -1,0 +1,12 @@
+{
+  "sync_version": 3,
+  "sync": [
+    {
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/EoNKHoLH/sodium-fabric-0.6.5%2Bmc1.21.1.jar",
+      "name": "Sodium",
+      "version": "0.6.5",
+      "type": "mod"
+    }
+  ]
+
+}
