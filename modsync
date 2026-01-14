@@ -30,6 +30,18 @@
       "name": "mcw-roofs",
       "version": "2.3.2",
       "type": "mod"
+    },
+    {
+      "url": "https://mediafilez.forgecdn.net/files/7132/171/MekanismGenerators-1.21.1-10.7.17.83.jar",
+      "name": "MekanismGenerators",
+      "version": "10.7.17.83",
+      "type": "mod"
+    },
+    {
+      "url": "https://mediafilez.forgecdn.net/files/7304/75/mcw-lights-1.1.5-mc1.21.1neoforge.jar",
+      "name": "mcw-lights",
+      "version": "1.1.5",
+      "type": "mod"
     }
   ]
 
