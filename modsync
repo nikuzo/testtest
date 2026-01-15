@@ -67,12 +67,7 @@
       "version": "4.22.0",
       "type": "mod"
     },
-    {
-      "url": "https://mediafilez.forgecdn.net/files/7377/533/forgified-fabric-api-0.116.7%2B2.2.0%2B1.21.1.jar",
-      "name": "forgified",
-      "version": "0.116.0",
-      "type": "mod"
-    },
+
     {
       "url": "https://mediafilez.forgecdn.net/files/7209/486/Kiwi-1.21.1-NeoForge-15.8.2.jar",
       "name": "kiwi",
