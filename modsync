@@ -97,6 +97,12 @@
       "name": "ProjectRedCore",
       "version": "4.22.0",
       "type": "mod"
+    },
+    {
+      "url": "https://mediafilez.forgecdn.net/files/7283/596/blocksyouneed_luna-1.11.3-neoforge-1.21.1.jar",
+      "name": "blocksyouneed_luna",
+      "version": "1.11.3",
+      "type": "mod"
     }
   ]
 
