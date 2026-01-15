@@ -91,6 +91,12 @@
       "name": "cryonicconfig",
       "version": "1.0.0",
       "type": "mod"
+    },
+    {
+      "url": "https://mediafilez.forgecdn.net/files/7295/855/ProjectRed-1.21.1-4.22.0-beta%2B33-core.jar",
+      "name": "ProjectRedCore",
+      "version": "4.22.0",
+      "type": "mod"
     }
   ]
 
