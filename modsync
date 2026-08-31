@@ -14,15 +14,27 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/LN9BxssP/versions/qKL9jM75/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "url": "https://cdn.modrinth.com/data/LN9BxssP/versions/glib-1.1.8-neoforge-mc1.21.jar",
       "name": "SuperMartijn642's Config Lib",
       "version": "1.1.8",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/4HeIHvIP/versions/g065XzyS/jumpoverfences-neoforge-1.21.1-1.6.1.jar",
+      "url": "https://cdn.modrinth.com/data/4HeIHvIP/versions/rge-1.21.1-1.6.1.jar",
       "name": "Jump Over Fences",
       "version": "1.6.1",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/6cpT8CUC/versions/dforked-neoforge-1.21.1-0.0.4.jar",
+      "name": "Cosmetic Armor Reworked Forked",
+      "version": "1.21.1-0.0.4",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/-1.21.1-1.5.65.1907.jar",
+      "name": "Sophisticated Storage",
+      "version": "1.21.1-1.5.65.1907",
       "type": "mod"
     }
   ]
