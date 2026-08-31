@@ -1,25 +1,29 @@
-  {
-    "sync_version": 3,
-    "sync": [
-      {
-        "url": "https://cdn.modrinth.com/data/t1VgucWo/versions/lVVhQRyh/chunkloaders-1.2.9-neoforge-mc1.21.jar",
-        "name": "Chunk Loaders",
-        "version": "1.2.9",
-        "type": "mod"
-      },
-      {
-        "url":
-  "https://cdn.modrinth.com/data/rOUBggPv/versions/hcYSe7v7/supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
-        "name": "SuperMartijn642's Core Lib",
-        "version": "1.1.21",
-        "type": "mod"
-      },
-      {
-        "url":
-  "https://cdn.modrinth.com/data/LN9BxssP/versions/qKL9jM75/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
-        "name": "SuperMartijn642's Config Lib",
-        "version": "1.1.8",
-        "type": "mod"
-      }
-    ]
-  }
+{
+  "sync_version": 3,
+  "sync": [
+    {
+      "url": "https://cdn.modrinth.com/data/t1VgucWo/versions/lVVhQRyh/chunkloaders-1.2.9-neoforge-mc1.21.jar",
+      "name": "Chunk Loaders",
+      "version": "1.2.9",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/rOUBggPv/versions/hcYSe7v7/supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+      "name": "SuperMartijn642's Core Lib",
+      "version": "1.1.21",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/LN9BxssP/versions/qKL9jM75/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "name": "SuperMartijn642's Config Lib",
+      "version": "1.1.8",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/4HeIHvIP/versions/g065XzyS/jumpoverfences-neoforge-1.21.1-1.6.1.jar",
+      "name": "Jump Over Fences",
+      "version": "1.6.1",
+      "type": "mod"
+    }
+  ]
+}
