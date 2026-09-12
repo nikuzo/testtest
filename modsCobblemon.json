@@ -46,7 +46,6 @@
     { "url": "https://cdn.modrinth.com/data/okE6QVAY/versions/W9QHKmDh/mcw-paintings-1.1.0-mc1.21.1neoforge.jar", "name": "Macaw's Paintings", "version": "1.1.0", "type": "mod" },
     { "url": "https://cdn.modrinth.com/data/lFGQ4Hnk/versions/G4l3EuRR/darkpaintings-neoforge-1.21.1-21.1.7.jar", "name": "Dark Paintings", "version": "21.1.7", "type": "mod" },
     { "url": "https://cdn.modrinth.com/data/An633Gxh/versions/Uyd3o6pc/bf_blockpack-neoforge-1.21.1-1.1.2.jar", "name": "Block Pack", "version": "1.1.2", "type": "mod" },
-    { "url": "https://cdn.modrinth.com/data/5cWCtJmf/versions/U74yfiJd/furnish-29.jar", "name": "Furnish", "version": "29", "type": "mod" },
     { "url": "https://cdn.modrinth.com/data/SISz7Qd3/versions/zSEefyfO/paladin-furniture-mod-1.5.0-neoforge-mc1.21.1.jar", "name": "Paladin's Furniture", "version": "1.5.0-neoforge", "type": "mod" },
     { "url": "https://cdn.modrinth.com/data/fRCEQtWX/versions/c9OGcgnV/fdm-26.9-neoforge-1.21.1.jar", "name": "Farmhouse Decorations", "version": "26.9", "type": "mod" },
 
@@ -72,6 +71,10 @@
     { "url": "https://cdn.modrinth.com/data/ePv85y52/versions/AoOYPAOZ/EnchantingInfuser-v21.1.4-1.21.1-NeoForge.jar", "name": "Enchanting Infuser", "version": "v21.1.4-1.21.1-NeoForge", "type": "mod" },
     { "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/wxGXaJMA/FallingTree-1.21.1-1.21.1.11.jar", "name": "FallingTree", "version": "1.21.1-1.21.1.11", "type": "mod" },
 
-    { "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/ZpKb4kZp/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar", "name": "Distant Horizons", "version": "3.2.0-b-1.21.1", "type": "mod" }
+    { "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/ZpKb4kZp/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar", "name": "Distant Horizons", "version": "3.2.0-b-1.21.1", "type": "mod" },
+
+    { "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/bOiDu0LS/createbigcannons-5.11.7%2Bmc.1.21.1.jar", "name": "Create Big Cannons", "version": "5.11.7+mc.1.21.1", "type": "mod" },
+    { "url": "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar", "name": "Ritchie's Projectile Library", "version": "2.1.2+mc.1.21.1", "type": "mod" },
+    { "url": "https://cdn.modrinth.com/data/BLu2Yqfq/versions/AntNFNAx/create_radar-0.4.9.4-1.21.1.jar", "name": "Create: Radars", "version": "0.4.9.4-1.21.1", "type": "mod" }
   ]
 }
