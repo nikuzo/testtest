@@ -78,6 +78,8 @@
     { "url": "https://cdn.modrinth.com/data/BLu2Yqfq/versions/AntNFNAx/create_radar-0.4.9.4-1.21.1.jar", "name": "Create: Radars", "version": "0.4.9.4-1.21.1", "type": "mod" },
 
     { "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/v5qtqRQi/spark-1.10.124-neoforge.jar", "name": "Spark", "version": "1.10.124-neoforge-1.21.1", "type": "mod" },
-    { "url": "https://cdn.modrinth.com/data/hasdd01q/versions/VviuomrA/noisium-neoforge-2.7.0%2Bmc1.21-1.21.1.jar", "name": "Noisium", "version": "2.7.0+mc1.21-1.21.1", "type": "mod" }
+    { "url": "https://cdn.modrinth.com/data/hasdd01q/versions/VviuomrA/noisium-neoforge-2.7.0%2Bmc1.21-1.21.1.jar", "name": "Noisium", "version": "2.7.0+mc1.21-1.21.1", "type": "mod" },
+
+    { "url": "https://cdn.modrinth.com/data/4BeAEBIb/versions/csVmqiwd/chunksmith-3.18.1%2B1.21.1-neoforge.jar", "name": "Chunksmith", "version": "3.18.1+1.21.1-neoforge", "type": "mod" }
   ]
 }
