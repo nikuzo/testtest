@@ -75,6 +75,9 @@
 
     { "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/bOiDu0LS/createbigcannons-5.11.7%2Bmc.1.21.1.jar", "name": "Create Big Cannons", "version": "5.11.7+mc.1.21.1", "type": "mod" },
     { "url": "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar", "name": "Ritchie's Projectile Library", "version": "2.1.2+mc.1.21.1", "type": "mod" },
-    { "url": "https://cdn.modrinth.com/data/BLu2Yqfq/versions/AntNFNAx/create_radar-0.4.9.4-1.21.1.jar", "name": "Create: Radars", "version": "0.4.9.4-1.21.1", "type": "mod" }
+    { "url": "https://cdn.modrinth.com/data/BLu2Yqfq/versions/AntNFNAx/create_radar-0.4.9.4-1.21.1.jar", "name": "Create: Radars", "version": "0.4.9.4-1.21.1", "type": "mod" },
+
+    { "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/v5qtqRQi/spark-1.10.124-neoforge.jar", "name": "Spark", "version": "1.10.124-neoforge-1.21.1", "type": "mod" },
+    { "url": "https://cdn.modrinth.com/data/hasdd01q/versions/VviuomrA/noisium-neoforge-2.7.0%2Bmc1.21-1.21.1.jar", "name": "Noisium", "version": "2.7.0+mc1.21-1.21.1", "type": "mod" }
   ]
 }
