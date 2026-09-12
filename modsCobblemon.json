@@ -70,6 +70,8 @@
     { "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/dDePx0Jy/Quark-4.1-484.jar", "name": "Quark", "version": "4.1-484", "type": "mod" },
     { "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/WrZWfRjP/supplementaries-1.21.1-3.9.9-neoforge.jar", "name": "Supplementaries", "version": "1.21.1-3.9.9", "type": "mod" },
     { "url": "https://cdn.modrinth.com/data/ePv85y52/versions/AoOYPAOZ/EnchantingInfuser-v21.1.4-1.21.1-NeoForge.jar", "name": "Enchanting Infuser", "version": "v21.1.4-1.21.1-NeoForge", "type": "mod" },
-    { "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/wxGXaJMA/FallingTree-1.21.1-1.21.1.11.jar", "name": "FallingTree", "version": "1.21.1-1.21.1.11", "type": "mod" }
+    { "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/wxGXaJMA/FallingTree-1.21.1-1.21.1.11.jar", "name": "FallingTree", "version": "1.21.1-1.21.1.11", "type": "mod" },
+
+    { "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/ZpKb4kZp/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar", "name": "Distant Horizons", "version": "3.2.0-b-1.21.1", "type": "mod" }
   ]
 }
