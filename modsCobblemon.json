@@ -82,9 +82,8 @@
 
     { "url": "https://cdn.modrinth.com/data/4BeAEBIb/versions/csVmqiwd/chunksmith-3.18.1%2B1.21.1-neoforge.jar", "name": "Chunksmith", "version": "3.18.1+1.21.1-neoforge", "type": "mod" },
 
-    { "url": "https://raw.githubusercontent.com/nikuzo/testtest/main/files/quark-inventory-sorting-fix.zip", "name": "Quark config fix (disable clashing Inventory Sorting)", "version": "1", "type": "config", "directory": "config" }
-  ],
-  "modify": [
-    { "type": "remove", "pattern": "^.*mods[/\\\\]inventorysorter-.*\\.jar$", "path": "." }
+    { "url": "https://raw.githubusercontent.com/nikuzo/testtest/main/files/quark-inventory-sorting-fix.zip", "name": "Quark config fix (disable clashing Inventory Sorting)", "version": "1", "type": "config", "directory": "config" },
+
+    { "url": "https://cursemaven.com/curse/maven/inventory-sorter-240633/7188660/inventory-sorter-240633-7188660.jar", "name": "Inventory Sorter", "version": "24.0.24", "type": "mod" }
   ]
 }
