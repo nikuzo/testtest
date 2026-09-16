@@ -80,7 +80,9 @@
     { "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/v5qtqRQi/spark-1.10.124-neoforge.jar", "name": "Spark", "version": "1.10.124-neoforge-1.21.1", "type": "mod" },
     { "url": "https://cdn.modrinth.com/data/hasdd01q/versions/VviuomrA/noisium-neoforge-2.7.0%2Bmc1.21-1.21.1.jar", "name": "Noisium", "version": "2.7.0+mc1.21-1.21.1", "type": "mod" },
 
-    { "url": "https://cdn.modrinth.com/data/4BeAEBIb/versions/csVmqiwd/chunksmith-3.18.1%2B1.21.1-neoforge.jar", "name": "Chunksmith", "version": "3.18.1+1.21.1-neoforge", "type": "mod" }
+    { "url": "https://cdn.modrinth.com/data/4BeAEBIb/versions/csVmqiwd/chunksmith-3.18.1%2B1.21.1-neoforge.jar", "name": "Chunksmith", "version": "3.18.1+1.21.1-neoforge", "type": "mod" },
+
+    { "url": "https://raw.githubusercontent.com/nikuzo/testtest/main/files/quark-inventory-sorting-fix.zip", "name": "Quark config fix (disable clashing Inventory Sorting)", "version": "1", "type": "config", "directory": "config" }
   ],
   "modify": [
     { "type": "remove", "pattern": "^mods/inventorysorter-.*\\.jar$", "path": "." }
