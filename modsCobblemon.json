@@ -85,6 +85,6 @@
     { "url": "https://raw.githubusercontent.com/nikuzo/testtest/main/files/quark-inventory-sorting-fix.zip", "name": "Quark config fix (disable clashing Inventory Sorting)", "version": "1", "type": "config", "directory": "config" }
   ],
   "modify": [
-    { "type": "remove", "pattern": "^mods/inventorysorter-.*\\.jar$", "path": "." }
+    { "type": "remove", "pattern": "^.*mods[/\\\\]inventorysorter-.*\\.jar$", "path": "." }
   ]
 }
