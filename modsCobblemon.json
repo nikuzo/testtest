@@ -89,7 +89,7 @@
     { "url": "https://cdn.modrinth.com/data/g2FGQs4R/versions/A0Rx4Pvw/u_team_core-neoforge-1.21.1-5.6.2.384.jar", "name": "U Team Core", "version": "5.6.2.384", "type": "mod" },
     { "url": "https://cdn.modrinth.com/data/jD6r2uLf/versions/ltrzGYlS/music_player-neoforge-1.21.1-2.7.1.351.jar", "name": "Music Player", "version": "2.7.1.351", "type": "mod" },
 
-    { "url": "https://raw.githubusercontent.com/nikuzo/testtest/main/files/pfm-brimwood-crash-fix.zip", "name": "PFM Brimwood herringbone crash fix (KubeJS)", "version": "1", "type": "config", "directory": "kubejs/startup_scripts" }
+    { "url": "https://raw.githubusercontent.com/nikuzo/testtest/main/files/pfm-brimwood-crash-fix.zip", "name": "PFM Brimwood herringbone crash fix (KubeJS)", "version": "2", "type": "config", "directory": "kubejs/startup_scripts" }
   ],
   "modify": [
     { "type": "remove", "pattern": "^.*mods[/\\\\]diary-.*\\.jar$", "path": "." }
