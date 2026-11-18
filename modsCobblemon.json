@@ -470,6 +470,24 @@
       "name": "LibTooltips",
       "version": "3.0",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/pyljrXOa/versions/TmLxGEPz/diegesis-neoforge-1.21.1-1.0.0-beta.13.jar",
+      "name": "Diegesis",
+      "version": "1.0.0-beta.13",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/akw8BJFr/versions/uwvww5nN/handson_delight-neoforge-1.21.1-1.5.0.jar",
+      "name": "Hands-On Delight",
+      "version": "1.5.0",
+      "type": "mod"
+    },
+    {
+      "url": "https://cursemaven.com/curse/maven/hands-on-furniture-1809763/9658995/hands-on-furniture-1809763-9658995.jar",
+      "name": "Hands-On Furniture",
+      "version": "1.1.0",
+      "type": "mod"
     }
   ],
   "modify": [
