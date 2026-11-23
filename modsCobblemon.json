@@ -502,12 +502,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cursemaven.com/curse/maven/create-reacting-reactions-1731565/9088022/create-reacting-reactions-1731565-9088022.jar",
-      "name": "Create: Reacting Reactions",
-      "version": "0.1.0",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/6txNkua3/versions/DeOfrXC3/immersive_paintings-neoforge-1.21.1-0.7.8.jar",
       "name": "Immersive Paintings",
       "version": "0.7.8",
@@ -524,6 +518,11 @@
     {
       "type": "remove",
       "pattern": "^.*mods[/\\\\]diary-.*\\.jar$",
+      "path": "."
+    },
+    {
+      "type": "remove",
+      "pattern": "^.*mods[/\\\\]CreateReactingReactions-.*\\.jar$",
       "path": "."
     }
   ]
