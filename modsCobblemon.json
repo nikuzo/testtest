@@ -488,6 +488,30 @@
       "name": "Hands-On Furniture",
       "version": "1.1.0",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/kVIxLqso/versions/MeF3ulWd/trainutilities-neoforge-3.1.0.jar",
+      "name": "Create Train Utilities",
+      "version": "3.1.0",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/8VQksBiY/versions/MU9ngpM5/creatingspace-1.21.1-1.7.23.jar",
+      "name": "Create: Creating Space",
+      "version": "1.7.23",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/97LKd1Lf/versions/yM6YrKww/createreautomated-0.3.2-mc1.21.1-neoforge.jar",
+      "name": "Create ReAutomated",
+      "version": "0.3.2",
+      "type": "mod"
+    },
+    {
+      "url": "https://cursemaven.com/curse/maven/create-reacting-reactions-1731565/9088022/create-reacting-reactions-1731565-9088022.jar",
+      "name": "Create: Reacting Reactions",
+      "version": "0.1.0",
+      "type": "mod"
     }
   ],
   "modify": [
