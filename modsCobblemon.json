@@ -512,6 +512,12 @@
       "name": "Immersive Paintings",
       "version": "0.7.8",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/T38eAZQC/versions/1qmcLagN/kubejs-create-neoforge-2101.3.1-build.18.jar",
+      "name": "KubeJS Create",
+      "version": "2101.3.1-build.18",
+      "type": "mod"
     }
   ],
   "modify": [
