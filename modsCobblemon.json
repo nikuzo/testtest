@@ -56,12 +56,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/lh44g7RC/PuzzlesLib-v21.1.60-mc1.21.1-NeoForge.jar",
-      "name": "Puzzles Lib",
-      "version": "21.1.60",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1IiqEQGl/architectury-13.0.11-neoforge.jar",
       "name": "Architectury API",
       "version": "13.0.11",
@@ -511,6 +505,12 @@
       "url": "https://cursemaven.com/curse/maven/create-reacting-reactions-1731565/9088022/create-reacting-reactions-1731565-9088022.jar",
       "name": "Create: Reacting Reactions",
       "version": "0.1.0",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/6txNkua3/versions/DeOfrXC3/immersive_paintings-neoforge-1.21.1-0.7.8.jar",
+      "name": "Immersive Paintings",
+      "version": "0.7.8",
       "type": "mod"
     }
   ],
