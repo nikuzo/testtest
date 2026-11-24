@@ -512,6 +512,36 @@
       "name": "KubeJS Create",
       "version": "2101.3.1-build.18",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/USgVjXsk/versions/uDi14nbt/tfmg-1.2.0.jar",
+      "name": "Create: The Factory Must Grow",
+      "version": "1.2.0",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/z611fdf7/versions/uTHdAs6t/createnuclear-2.0.2-neoforge.jar",
+      "name": "Create Nuclear",
+      "version": "2.0.2",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/qVZh767G/versions/8Xn8084G/vintage-1.21.1-1.6.5.jar",
+      "name": "Create: Vintage",
+      "version": "1.6.5",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/knrLSB8n/versions/3tduJc4Y/create_deep_dark-3.0.2-neoforge-1.21.1.jar",
+      "name": "Create: Deep Dark",
+      "version": "3.0.2",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/L3Jv0QZI/versions/czVeSmZo/railways-0.3.0-beta.2%2Bneoforge-mc1.21.1.jar",
+      "name": "Create: Steam 'n' Rails",
+      "version": "0.3.0-beta.2",
+      "type": "mod"
     }
   ],
   "modify": [
