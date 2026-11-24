@@ -542,6 +542,12 @@
       "name": "Create: Steam 'n' Rails",
       "version": "0.3.0-beta.2",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/n4iyW7aB/tectonic-3.0.28-neoforge-21.1.jar",
+      "name": "Tectonic",
+      "version": "3.0.28-neoforge-21.1",
+      "type": "mod"
     }
   ],
   "modify": [
