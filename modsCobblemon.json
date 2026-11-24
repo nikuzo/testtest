@@ -2,9 +2,9 @@
   "sync_version": 3,
   "sync": [
     {
-      "url": "https://cdn.modrinth.com/data/T9PomCSv/versions/U678xqle/sable-neoforge-1.21.1-2.0.5.jar",
+      "url": "https://cdn.modrinth.com/data/T9PomCSv/versions/fg9dTRz9/sable-neoforge-1.21.1-2.0.6.jar",
       "name": "Sable",
-      "version": "2.0.5",
+      "version": "2.0.6+mc1.21.1",
       "type": "mod"
     },
     {
@@ -20,9 +20,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/RpH8tmT1/versions/82WgkpfK/azimuth-1.4.8.jar",
+      "url": "https://cdn.modrinth.com/data/RpH8tmT1/versions/dxtZVosY/azimuth-1.4.10.jar",
       "name": "Azimuth API",
-      "version": "1.4.8",
+      "version": "1.4.10",
       "type": "mod"
     },
     {
@@ -56,9 +56,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1IiqEQGl/architectury-13.0.11-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/xGfBrBzj/architectury-13.0.12-neoforge.jar",
       "name": "Architectury API",
-      "version": "13.0.11",
+      "version": "13.0.12+neoforge",
       "type": "mod"
     },
     {
@@ -74,9 +74,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/44pLdPGg/create-aeronautics-bundled-1.21.1-1.3.2.jar",
+      "url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/demX2roU/create-aeronautics-bundled-1.21.1-1.3.3.jar",
       "name": "Create Aeronautics",
-      "version": "1.3.2+mc1.21.1",
+      "version": "1.3.3+mc1.21.1",
       "type": "mod"
     },
     {
@@ -86,9 +86,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/jImqv1M5/versions/bdgQsUVU/climbable_ropes-2.1.3.jar",
+      "url": "https://cdn.modrinth.com/data/jImqv1M5/versions/MQNJGin9/climbable_ropes-2.2.3.jar",
       "name": "Climbable Ropes for Create Aeronautics",
-      "version": "2.1.3",
+      "version": "2.2.3",
       "type": "mod"
     },
     {
@@ -98,9 +98,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/73ZXeRfx/versions/EgPi4wq9/create_aeronautics_automated_logistics-0.6.2.jar",
+      "url": "https://cdn.modrinth.com/data/73ZXeRfx/versions/ESwTkggq/create_aeronautics_automated_logistics-0.7.0.jar",
       "name": "Create Aeronautics: Automated Logistics",
-      "version": "0.6.2",
+      "version": "0.7.0",
       "type": "mod"
     },
     {
@@ -128,15 +128,15 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/bPYeUWZx/copycats-3.0.9%2Bmc.1.21.1-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/zLlVJXf0/copycats-3.0.11%2Bmc.1.21.1-neoforge.jar",
       "name": "Create: Copycats+",
-      "version": "3.0.9+mc.1.21.1-neoforge",
+      "version": "3.0.11+mc.1.21.1-neoforge",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/ATDdrG1y/versions/qYjOyvgW/create_hypertube-0.6.0-NEOFORGE.jar",
+      "url": "https://cdn.modrinth.com/data/ATDdrG1y/versions/j9cqY9tG/create_hypertube-0.6.1-NEOFORGE.jar",
       "name": "Create: Hypertubes",
-      "version": "0.6.0",
+      "version": "0.6.1",
       "type": "mod"
     },
     {
@@ -146,15 +146,15 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/lMYIHZNH/versions/QWqEdWHy/createbetterfps-1.21.1-1.1.4.jar",
+      "url": "https://cdn.modrinth.com/data/lMYIHZNH/versions/dxmPYimo/createbetterfps-1.21.1-1.1.5.jar",
       "name": "CreateBetterFps",
-      "version": "1.1.4",
+      "version": "1.1.5",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/ZM3tt6p1/versions/UoPH8lO1/createdieselgenerators-1.21.1-1.3.15.jar",
+      "url": "https://cdn.modrinth.com/data/ZM3tt6p1/versions/yzsE99E2/createdieselgenerators-1.21.1-1.3.16.jar",
       "name": "Create: Diesel Generators",
-      "version": "1.21.1-1.3.15",
+      "version": "1.21.1-1.3.16",
       "type": "mod"
     },
     {
@@ -170,9 +170,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/hSSqdyU1/versions/t6MATlU9/Create%20Encased-1.21.1-1.9.0-ht3.jar",
+      "url": "https://cdn.modrinth.com/data/hSSqdyU1/versions/tFR79nyG/Create%20Encased-1.21.1-1.10.1-fix1.jar",
       "name": "Create Encased",
-      "version": "1.21.1-1.9.0-ht3",
+      "version": "1.21.1-1.10.1-fix1",
       "type": "mod"
     },
     {
@@ -182,9 +182,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/T8bvmqVZ/versions/DRKQse4Z/bits_n_bobs-2.3.4.jar",
+      "url": "https://cdn.modrinth.com/data/T8bvmqVZ/versions/g9Lmjjc5/bits_n_bobs-2.3.5.jar",
       "name": "Create: Bits 'n' Bobs",
-      "version": "2.3.4",
+      "version": "2.3.5",
       "type": "mod"
     },
     {
@@ -218,9 +218,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/SvN6UGeF/versions/qXtpNEFr/immersive_furniture-neoforge-0.3.3%2B1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/SvN6UGeF/versions/iPF8j9Wj/immersive_furniture-neoforge-0.5.0%2B1.21.1.jar",
       "name": "Immersive Furniture",
-      "version": "0.3.3+1.21.1",
+      "version": "0.5.0+1.21.1",
       "type": "mod"
     },
     {
@@ -284,9 +284,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cursemaven.com/curse/maven/structurize-298744/8610535/structurize-298744-8610535.jar",
+      "url": "https://cursemaven.com/curse/maven/structurize-298744/9680037/structurize-298744-9680037.jar",
       "name": "Structurize",
-      "version": "1.0.832-1.21.1",
+      "version": "1.0.840-1.21.1",
       "type": "mod"
     },
     {
@@ -350,9 +350,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/dDePx0Jy/Quark-4.1-484.jar",
+      "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/pMjjsBGF/Quark-4.1-488.jar",
       "name": "Quark",
-      "version": "4.1-484",
+      "version": "4.1-488",
       "type": "mod"
     },
     {
@@ -374,9 +374,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/ZpKb4kZp/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9w34y8ai/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
       "name": "Distant Horizons",
-      "version": "3.2.0-b-1.21.1",
+      "version": "3.3.3-1.21.1",
       "type": "mod"
     },
     {
@@ -435,9 +435,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/jD6r2uLf/versions/ltrzGYlS/music_player-neoforge-1.21.1-2.7.1.351.jar",
+      "url": "https://cdn.modrinth.com/data/jD6r2uLf/versions/Es9XfV0s/music_player-neoforge-1.21.1-2.7.5.395.jar",
       "name": "Music Player",
-      "version": "2.7.1.351",
+      "version": "2.7.5.395",
       "type": "mod"
     },
     {
@@ -466,21 +466,21 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/pyljrXOa/versions/TmLxGEPz/diegesis-neoforge-1.21.1-1.0.0-beta.13.jar",
+      "url": "https://cdn.modrinth.com/data/pyljrXOa/versions/NtPfqNAL/diegesis-neoforge-1.21.1-1.0.0-beta.19.jar",
       "name": "Diegesis",
-      "version": "1.0.0-beta.13",
+      "version": "1.0.0-beta.19+1.21.1-neoforge",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/akw8BJFr/versions/uwvww5nN/handson_delight-neoforge-1.21.1-1.5.0.jar",
+      "url": "https://cdn.modrinth.com/data/akw8BJFr/versions/QYD6Cuyd/handson_delight-neoforge-1.21.1-1.7.1.jar",
       "name": "Hands-On Delight",
-      "version": "1.5.0",
+      "version": "1.7.1+1.21.1-neoforge",
       "type": "mod"
     },
     {
-      "url": "https://cursemaven.com/curse/maven/hands-on-furniture-1809763/9658995/hands-on-furniture-1809763-9658995.jar",
+      "url": "https://cursemaven.com/curse/maven/hands-on-furniture-1809763/9728673/hands-on-furniture-1809763-9728673.jar",
       "name": "Hands-On Furniture",
-      "version": "1.1.0",
+      "version": "1.2.1",
       "type": "mod"
     },
     {
@@ -502,9 +502,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/6txNkua3/versions/DeOfrXC3/immersive_paintings-neoforge-1.21.1-0.7.8.jar",
+      "url": "https://cdn.modrinth.com/data/6txNkua3/versions/N6FSewpt/immersive_paintings-neoforge-1.21.1-0.8.1.jar",
       "name": "Immersive Paintings",
-      "version": "0.7.8",
+      "version": "0.8.1+1.21.1",
       "type": "mod"
     },
     {
